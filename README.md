@@ -1,5 +1,7 @@
 # Contact Viewer #
 
+https://githubsfdeploy.herokuapp.com/app/githubdeploy/paulpeterrice/Contact-Viewer
+
 Contact Viewer is a free open-source app, available on any mobile or tablet device. It's the easiest way to browse your Contacts in any Salesforce environment, see all details, and read the latest chatter and activities related to them.
 
 This document is intended to introduce you to the app's architecture and design and make it as easy as possible for you to jump in, run it, and start contributing.
